@@ -1,2 +1,2 @@
 # rakuten-streamlit
-Data Challenge Rakuten pour Streamlit - Datascientest
+Data Challenge Rakuten pour Streamlit - Formation Datascientest
